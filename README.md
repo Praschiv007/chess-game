@@ -20,7 +20,7 @@ A web-based chess game built with Python Flask and JavaScript. This application 
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/chess-game.git
+git clone https://github.com/Praschiv007/chess-game.git
 cd chess-game
 ```
 
